@@ -4,6 +4,8 @@ import {  Linkedin,Twitter, Server, Mail} from "lucide-react";
 import  Navigation  from "./components/Navigation";
 import HomePage  from "./pages/Home";
 import ServicesPage from "./pages/Service";
+import AboutUsPage from "./pages/AboutUsPage";
+
 
 
 
@@ -159,6 +161,7 @@ const App = () => {
             <Route path="/services" element={<ServicesPage />} />
             <Route path="/projects" element={<ProjectsPage />} />
             <Route path="/contact" element={<ContactPage />} />
+            <Route path="/about" element={<AboutUsPage />} />
           </Routes>
         </main>
         <footer className="bg-gray-800 text-white py-6 text-center">

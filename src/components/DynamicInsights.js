@@ -15,7 +15,6 @@ import {
     Tooltip,
     ResponsiveContainer,
     Cell,
-    Legend,
 } from "recharts";
 
 const DynamicInsights = () => {

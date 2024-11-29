@@ -4,8 +4,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const partners = [
-    { name: 'UNICEF', logo: process.env.PUBLIC_URL + "/UNICEF.jpg" },
-    { name: 'AfDB', logo: process.env.PUBLIC_URL + "/AfDB.jpg" },
+    { name: 'UNICEF', logo: process.env.PUBLIC_URL + "/UNICEF.png" },
+    { name: 'AfDB', logo: process.env.PUBLIC_URL + "/AfDB.png" },
     { name: 'MR', logo: process.env.PUBLIC_URL + "/MR.svg" },
     // Add more partners as needed
 ];
