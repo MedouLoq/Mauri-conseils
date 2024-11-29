@@ -45,21 +45,21 @@ const Footer = () => {
                     <p className="text-gray-300 text-sm">Phone: +222 33 25 26 44</p>
                     <div className="mt-4 flex justify-center md:justify-start space-x-4">
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-300 hover:text-white transition"
                             aria-label="LinkedIn"
                         >
                             <Linkedin size={20} />
                         </a>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-300 hover:text-white transition"
                             aria-label="Twitter"
                         >
                             <Twitter size={20} />
                         </a>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-300 hover:text-white transition"
                             aria-label="Facebook"
                         >

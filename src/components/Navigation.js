@@ -48,7 +48,7 @@ const Navigation = () => {
                         <Link to="/" aria-label="Mauri-Conseils Home">
                             <img
                                 className="h-10 w-auto"
-                                src={process.env.PUBLIC_URL + "/logo.jpg"}
+                                src={process.env.PUBLIC_URL + "/Logo.jpg"}
                                 alt="Mauri-Conseils Logo"
                             />
                         </Link>

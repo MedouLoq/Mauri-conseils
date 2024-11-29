@@ -1,7 +1,6 @@
 // src/pages/HomePage.js
 
-import React, { Suspense } from 'react';
-import { motion } from 'framer-motion';
+import React from 'react';
 import WelcomeSection from '../components/WelcomePage';
 import ServiceSection from '../components/ServiceSection';
 import DynamicInsights from '../components/DynamicInsights';

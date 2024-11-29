@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
-import { motion } from "framer-motion";
-import { X, Linkedin, ChevronLeft, ChevronRight, Facebook, Twitter, TrendingUp, Database,Server, Mail} from "lucide-react";
+import React, { useState } from "react";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import {  Linkedin,Twitter, Server, Mail} from "lucide-react";
 import  Navigation  from "./components/Navigation";
 import HomePage  from "./pages/Home";
 import ServicesPage from "./pages/Service";
@@ -136,9 +135,9 @@ const ContactPage = () => {
                 <span>+222 33 25 26 44</span>
               </div>
               <div className="flex space-x-4 mt-4">
-                <a href="#" className="text-blue-700 hover:text-blue-900"><Linkedin /></a>
-                <a href="#" className="text-blue-700 hover:text-blue-900"><Linkedin /></a>
-                <a href="#" className="text-blue-700 hover:text-blue-900"><Twitter /></a>
+                <a href="/" className="text-blue-700 hover:text-blue-900"><Linkedin /></a>
+                <a href="/" className="text-blue-700 hover:text-blue-900"><Linkedin /></a>
+                <a href="/" className="text-blue-700 hover:text-blue-900"><Twitter /></a>
               </div>
             </div>
           </div>
