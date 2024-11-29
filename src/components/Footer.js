@@ -69,9 +69,9 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="mt-8 border-t border-gray-700 pt-6 text-center text-gray-400 text-sm">
+            {/* <div className="mt-8 border-t border-gray-700 pt-6 text-center text-gray-400 text-sm">
                 <p>&copy; {new Date().getFullYear()} Mauri-Conseils. All rights reserved.</p>
-            </div>
+            </div> */}
         </footer>
     );
 };
