@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mauri-conseils/static/css/main.cce34a7a.css",
-    "main.js": "/Mauri-conseils/static/js/main.1e547fc1.js",
+    "main.css": "/Mauri-conseils/static/css/main.9891b5e5.css",
+    "main.js": "/Mauri-conseils/static/js/main.5ee5bca1.js",
     "static/js/453.f26fddb8.chunk.js": "/Mauri-conseils/static/js/453.f26fddb8.chunk.js",
     "index.html": "/Mauri-conseils/index.html",
-    "main.cce34a7a.css.map": "/Mauri-conseils/static/css/main.cce34a7a.css.map",
-    "main.1e547fc1.js.map": "/Mauri-conseils/static/js/main.1e547fc1.js.map",
+    "main.9891b5e5.css.map": "/Mauri-conseils/static/css/main.9891b5e5.css.map",
+    "main.5ee5bca1.js.map": "/Mauri-conseils/static/js/main.5ee5bca1.js.map",
     "453.f26fddb8.chunk.js.map": "/Mauri-conseils/static/js/453.f26fddb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce34a7a.css",
-    "static/js/main.1e547fc1.js"
+    "static/css/main.9891b5e5.css",
+    "static/js/main.5ee5bca1.js"
   ]
 }
