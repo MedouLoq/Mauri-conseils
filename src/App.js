@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { X, Linkedin, ChevronLeft, ChevronRight, Facebook, Twitter, TrendingUp, Database,Server, Mail} from "lucide-react";
 import  Navigation  from "./components/Navigation";
